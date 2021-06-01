@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LocatNotes</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="date">Date</string>
+    <string name="location">Location</string>
+    <string name="select_an_image">Select an Image</string>
+    <string name="floating_action_button_add">Floating Action Button - Add</string>
+
+    <string name="google_maps_api_key">AIzaSyAIawSXD0MIp1d0Y7d5PVooDwRsMtV_OlQ</string>
+</resources>
